@@ -1,4 +1,4 @@
-This is a simple major mode for writing OWL ontologies in the
+This is a simple Emacs major mode for writing OWL ontologies in the
 OWL functional syntax. It currently only supports syntax
 highlighting.
 
